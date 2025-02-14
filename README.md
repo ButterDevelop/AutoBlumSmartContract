@@ -1,6 +1,6 @@
 # TON Smart Contract & Wallet Checker
 
-This project combines a smart contract written in Tact for the TON blockchain with a TypeScript client application that interacts with the TON API. The solution enables wallet verification, fund distribution, token withdrawal, and task management while integrating with third‐party services such as Telegram for notifications and MongoDB for persistent storage. This is additional part of the main project called **AutoBlumFarm**.
+This project combines a smart contract written in Tact for the TON blockchain with a TypeScript client application that interacts with the TON API. The solution enables wallet verification, fund distribution, token withdrawal, and task management while integrating with third‐party services such as Telegram for notifications and MongoDB for persistent storage. This is additional part of the main project called **AutoBlumFarm** ([backend](https://github.com/ButterDevelop/BlumBotFarm) and [frontend](https://github.com/ButterDevelop/AutoBlumFarmBot) repos).
 
 ---
 
